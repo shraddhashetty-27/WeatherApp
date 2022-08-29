@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather_App</string>
+    <string name="degree">Degree : -</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="speed">Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="_24">24</string>
+    <string name="weather">WEATHER</string>
+    <string name="lattitude_longitude">lattitude , longitude</string>
+</resources>
